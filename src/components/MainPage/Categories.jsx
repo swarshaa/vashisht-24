@@ -4,15 +4,15 @@ const Categories = () => {
   const data = [
     {
       cateImg: "./images/category/cat1.png",
-      cateName: "Fashion",
+      cateName: "Handmade Fashion",
     },
     {
       cateImg: "./images/category/cat2.png",
-      cateName: "Electronic",
+      cateName: "Digital gifts",
     },
     {
       cateImg: "./images/category/cat3.png",
-      cateName: "Cars",
+      cateName: "Car Decors",
     },
     {
       cateImg: "./images/category/cat4.png",
@@ -20,15 +20,15 @@ const Categories = () => {
     },
     {
       cateImg: "./images/category/cat5.png",
-      cateName: "Gifts",
+      cateName: "Customized Gifts",
     },
     {
       cateImg: "./images/category/cat6.png",
-      cateName: "Music",
+      cateName: "Music ",
     },
     {
       cateImg: "./images/category/cat7.png",
-      cateName: "Health & Beauty",
+      cateName: "Customized makeup",
     },
     {
       cateImg: "./images/category/cat8.png",
@@ -40,7 +40,7 @@ const Categories = () => {
     },
     {
       cateImg: "./images/category/cat10.png",
-      cateName: "Groceries",
+      cateName: "Chocolates",
     },
     {
       cateImg: "./images/category/cat11.png",
