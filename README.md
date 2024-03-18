@@ -1,6 +1,6 @@
 EarnEarnest
 ⭐️Unleash your student artistry!⭐️
-https://youtu.be/ZiHLz814PhI
+https://youtu.be/CAadaaaBuh4
 
 
 Welcome to our vibrant platform, where the intersection of creativity and opportunity ignites endless possibilities! We're dedicated to empowering students who possess a fervor for crafting unique gifts and handicrafts, offering them an exclusive space to kickstart their freelancing journey. Here, we prioritize showcasing the budding talent of students, ensuring that professionals take a back seat.
